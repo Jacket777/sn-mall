@@ -38,6 +38,7 @@ build/
 **/mvnw.cmd
 **/.gitignore
 **/target
+**/.mvn
 .idea
 
 
