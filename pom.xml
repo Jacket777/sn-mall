@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sn.mall</groupId>
-	<artifactId>mall-mall</artifactId>
+	<artifactId>sn-mall</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mall-mall</name>
-	<description>聚合工程</description>
+	<name>sn-mall</name>
+	<description>商城聚合工程</description>
 	<packaging>pom</packaging>
 
 	<modules>
@@ -15,9 +15,9 @@
 		<module>mall-coupon</module>
 		<module>mall-order</module>
 		<module>mall-product</module>
+		<module>renren-fast-master</module>
+		<module>sn-product</module>
 	</modules>
-
-
 
 
 

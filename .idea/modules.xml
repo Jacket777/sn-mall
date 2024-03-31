@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/renren-fast-master/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast-master/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sn-mall.iml" filepath="$PROJECT_DIR$/.idea/sn-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sn-product/sn-product.iml" filepath="$PROJECT_DIR$/sn-product/sn-product.iml" />
+    </modules>
+  </component>
+</project>
