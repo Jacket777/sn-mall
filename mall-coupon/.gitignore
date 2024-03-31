@@ -29,5 +29,14 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+
+# not to be git push
+**/mvnw
+**/mvnw.cmd
+**/.gitignore
+**/target
+.idea
+
+
 ### VS Code ###
 .vscode/
